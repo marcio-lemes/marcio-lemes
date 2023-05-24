@@ -2,7 +2,7 @@
 <blockquote>Meu nome é Márcio e eu tenho 18 anos. A razão de eu ter entrado no mundo da programação é que eu sempre gostei de desenvolver e oferecer soluções no meu dia-a-dia, então desde que eu me interessei pela área, estudo diariamente para aprimorar meu conhecimento e minhas habilidades. </blockquote>
 
 - 👀 Estou interessado em me tornar um ótimo desenvolvedor profissional. 
-- 🌱 Atualmente estou aprendendo Back-End, mais especificamente Node Js, MYSQL/SQL, API Rest  .
+- 🌱 Atualmente estou aprendendo Back-End, mais especificamente Node.Js, MYSQL/SQL, API REST.
 - 💞️ Sou muito dedicado em tudo que me disponho a fazer.
 - 📫 Como entrar em contato comigo: devmarciolemes@gmail.com .
 <br></br>
