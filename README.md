@@ -7,8 +7,8 @@
 - 📫 Como entrar em contato comigo: devmarciolemes@gmail.com .
 <br></br>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcinlemes&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img heigt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcinlemes&layout=compact&theme=tokyonight"/>  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcinlemes&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img heigt="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcinlemes&layout=compact&theme=tokyonight"/>  
 </div>
 
 ## Tecnologias que eu mais uso
