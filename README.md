@@ -1,8 +1,8 @@
-## 👋 Eai, eu sou @marciolemes
+## 👋 Eai, eu sou @marcinlemes
 <blockquote>Meu nome é Márcio e eu tenho 19 anos. A razão de eu ter entrado no mundo da programação é que eu sempre gostei de desenvolver e oferecer soluções no meu dia-a-dia, então desde que eu me interessei pela área, estudo diariamente para aprimorar meu conhecimento e minhas habilidades. </blockquote>
 
 - 👀 Estou interessado em me tornar um ótimo desenvolvedor profissional. 
-- 🌱 Atualmente estou aprimorando minhas habilidades front-end me especializando em JavaScript, Frameworks de CSS, React JS e API's REST.
+- 🌱 Atualmente estou aprimorando minhas habilidades front-end me especializando em JavaScript, Frameworks de CSS e API's REST.
 - 💞️ Sou muito dedicado em tudo que me disponho a fazer.
 - 📫 Como entrar em contato comigo: devmarciolemes@gmail.com .
 <br></br>
