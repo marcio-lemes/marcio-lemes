@@ -1,5 +1,5 @@
 ## 👋 Eai, eu sou @marcinlemes
-<blockquote>Meu nome é Márcio e eu tenho 19 anos. A razão de eu ter entrado no mundo da programação é que eu sempre gostei de desenvolver e oferecer soluções no meu dia-a-dia, então desde que eu me interessei pela área, estudo diariamente para aprimorar meu conhecimento e minhas habilidades. </blockquote>
+<blockquote>Meu nome é Márcio e eu tenho 20 anos. A razão de eu ter entrado no mundo da programação é que eu sempre gostei de desenvolver e oferecer soluções no meu dia-a-dia, então desde que eu me interessei pela área, estudo diariamente para aprimorar meu conhecimento e minhas habilidades. </blockquote>
 
 - 👀 Meu objetivo é de me tornar um ótimo desenvolvedor profissional. 
 - 🌱 Atualmente estou focando em aprimorar minhas habilidades back-end me especializando em Python e API REST.
