@@ -1,7 +1,7 @@
 ## 👋 Eai, eu sou @marcio-lemes
 <blockquote>Meu nome é Márcio e eu tenho 20 anos. A razão de eu ter entrado no mundo da programação é que eu sempre gostei de desenvolver e oferecer soluções no meu dia-a-dia, então desde que eu me interessei pela área, estudo diariamente para aprimorar meu conhecimento e minhas habilidades. </blockquote>
 
-- 👀 Meu objetivo é de me tornar um ótimo desenvolvedor profissional. 
+- 👀 Meu objetivo é de colaborar em projetos relacionados à RPA e IA usando Python. 
 - 🌱 Atualmente estou focando em aprimorar minhas habilidades back-end me especializando em Python e API REST.
 - 💞️ Sou muito dedicado em tudo que me disponho a fazer.
 - 📫 Como entrar em contato comigo: devmarciolemes@gmail.com .
