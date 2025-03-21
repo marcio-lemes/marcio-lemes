@@ -8,8 +8,8 @@
 
 ##   
 <div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcio-lemes&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcio-lemes&layout=compact&theme=tokyonight"/>  
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcio-lemes&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcio-lemes&layout=compact&theme=tokyonight"/>  
 </div>
 
 ## Tecnologias que uso
